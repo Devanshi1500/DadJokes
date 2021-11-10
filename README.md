@@ -1,4 +1,6 @@
-# dadjokes
+# Dad Jokes
+
+Corniest jokes you've ever heard.
 
 ## Build Setup
 
