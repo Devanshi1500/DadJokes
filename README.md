@@ -1,6 +1,10 @@
 # Dad Jokes
 
-Corniest jokes you've ever heard.
+Corniest jokes you've ever heard
+
+## API Used
+
+[https://icanhazdadjoke.com/api](https://icanhazdadjoke.com/api)
 
 ## Build Setup
 
